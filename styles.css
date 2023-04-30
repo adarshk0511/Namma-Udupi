@@ -1,0 +1,894 @@
+
+.body{
+    position: relative;
+    
+}
+
+/* ==================navbar============================== */
+.navbar .nav-link{
+    font-weight: 400;
+    padding-left: 5px;
+    font-size: 20px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.navbar .nav-link:hover{
+    font-weight: 500;
+    padding-left: 5px;
+    font-size: 20px;
+    background-color: black;
+    
+}
+
+.navbar{
+    background-color: transparent;
+}
+
+/* =============================one=================================== */
+.raj{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1518px;
+    color: rgb(0, 0, 0,0.7);
+    opacity: .9;
+    height: 100%;
+    
+}
+
+.one .n{
+    background-color: black;
+    color: aliceblue;
+    width: 450px;
+    height: 100px;
+    border-radius: 15px;
+    font-size: 60px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 150px;
+    left: 60px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.one p{
+    position: absolute;
+    top: 330px;
+    left: 120px;
+    color: azure;
+    width: 500px;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Fresca', sans-serif;
+}
+
+.one a{
+    position: absolute;
+    top: 670px;
+    left: 120px;
+    color: azure;
+    width: 150px;
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgba(0, 0, 0, 1);
+    font-style: none;
+    font-family: 'Fresca', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px 5px;
+    
+ 
+}
+
+#one_logo{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: none;
+    position: absolute;
+    bottom: 530px;
+    left: 1180px;
+}
+
+.one img:hover{
+    box-shadow: 0 0px 20px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.333);
+
+}
+.one .k:hover{
+    color: #ffec17;
+    box-shadow: 0 0px 20px 0 rgb(237, 162, 76), 0 17px 50px 0 rgba(255, 255, 255, 0.333);
+
+ }
+#lipi{
+    position: absolute;
+    top: 150px;
+    right: 103px;
+    width: 130px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 0px 20px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.333);
+
+}
+
+.belkal{
+    width: 100%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+/* =============================two================================ */
+
+
+.two{
+    position: relative;
+    top: 800px;
+    height: 700px;
+    padding-bottom: 60px;
+}
+.home{
+    height: 750px;
+    width: 550px;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+
+.two h2{
+    position: absolute;
+    top: 110px;
+    right: 330px;
+    font-size: 55px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.two p{
+    position: absolute;
+    width: 400px;
+    right: 310px;
+    top: 310px;
+    font-size: large;
+    font-weight: 500;
+    font-family: 'Fresca', sans-serif;
+}
+
+.hvec{
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    height: 170px;
+    width: 150px;
+}
+
+.two a{
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+
+.two a:hover{
+    color:rgb(249, 214, 20)   
+}
+
+
+/* ===========================Three=========================== */
+
+.three{
+    position: relative;
+    top: 900px;
+    height: 700px;
+}
+
+.three img{
+    position: absolute;
+    left: -9px;
+    height: 115%;
+    /* width: 1537px; */
+    width: 100.5%;
+    background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=) repeat;
+
+    
+
+}
+
+.three h1{
+    position: absolute;
+    top: 1%;
+    left: 38%;
+    -webkit-text-fill-color: transparent;
+    color: aliceblue;
+    font-size: 5rem;
+    -webkit-text-stroke-width: 2px;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 2px 5px;
+    
+}
+/* -----card one------ */
+
+.card{
+    height: 500px;
+}
+
+
+.three .card .card-img-top{
+    height: 220px;
+    width: 275px;
+    border-radius: 10px;
+    left: 5px;
+    top: 5px;
+}
+
+.three #c_one{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    background-color: rgba(0, 0, 0, .5);
+    /* box-shadow: 0 0px 20px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.333); */
+}
+
+
+
+.card .card-title{
+    padding-top: 220px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 600;
+    color: aliceblue;
+}
+
+.card p{
+    font-family: 'Fresca', sans-serif;
+    size: 10px;
+    text-align: left;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.three #kola_link{
+    background-color: rgba(0, 0, 0, .9);
+    position: absolute;
+    right: 90px;
+}
+
+
+
+/* -----card two------ */
+
+.three #c_two{
+    position: absolute;
+    top: 160px;
+    left: 585px;
+    height: 425px;
+    background-color: rgba(0, 0, 0, .6);
+    width: 24rem;
+    /* box-shadow: 0 0px 20px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.333); */
+}
+
+.three #dosa{
+    width: 370px;
+}
+
+.three #dosa_title{
+    text-align: center;
+    color: aliceblue;
+}
+
+.three #dosa_link{
+    position: absolute;
+    right: 130px;
+    background-color: rgba(0, 0, 0, .9);
+}
+
+/* -----card three------ */
+
+
+.three #c_three{
+    position: absolute;
+    top: 200px;
+    right: 100px;
+    height: 470px;
+    background-color: rgba(0, 0, 0, .6);
+    /* box-shadow: 0 0px 20px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.333); */
+    
+}
+
+.three .card:hover{
+    box-shadow: 0 0px 20px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.333);
+    
+}
+
+
+.three #loc_title{
+    text-align: center;
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+.three #loc_link{
+    position: absolute;
+    right: 56px;
+    background-color: rgba(0, 0, 0, .9);
+}
+
+.three a:hover{
+    box-shadow: 0 0px 20px 0 rgb(21, 7, 171), 0 17px 50px 0 rgba(255, 255, 255, 0.333);
+    transform: translateY(-4px);
+}
+
+/* =============================four=============================== */
+.four{
+    position: relative;
+    top: 1000px;
+    height: 800px;
+    margin-top: 50px;
+    
+}
+.four h1{
+    -webkit-text-fill-color: transparent;
+    font-size: 5rem;
+    -webkit-text-stroke-width: 3px;
+    color: black;
+    position: absolute;
+    top: 190px;
+    left: 80px;
+    
+}
+.four p{
+    position: absolute;
+    top: 300px;
+    left: 80px;
+    font-size: 20px;
+    font-weight: 600;
+}
+#four-img{
+    height: 300px;
+    width: auto;
+    position: absolute;
+    top: 400px;
+    left: 150px;
+}
+
+.four .card .card-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.four .card{
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    position: absolute;
+
+}
+.four .card .card-body{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: -100%;
+    position: absolute;
+    background: #03070838;
+    backdrop-filter: blur(1.5px);
+    display: flex;
+    transition: 1s;
+
+}
+.four .card .card-title{
+    position: absolute;
+    color: aliceblue;
+    margin-top: -205px;
+    
+}
+.four .card .card-text{
+    font-weight: 400;
+    position: absolute;
+    top: 100px;
+    color: aliceblue;
+    line-height: 25px;
+    margin-right: 2px;
+    
+    
+}
+.four .card .card-btn{
+    color: aliceblue;
+    background-color: transparent;
+    border-radius: 5px;
+    position: absolute;
+    top: 250px;
+    background-color: rgb(17, 16, 16,.5);
+    border: none;
+    outline: none;
+    font-weight: 500;
+    cursor: pointer;
+}
+.card:hover .card-body{
+    right: 0;
+}
+.four .card .card-body button:hover{
+    background-color: azure;
+    color: black;
+}
+.four #four-c1{
+    top: 30px;
+    right: 600px;
+}
+
+.four #four-c2{
+    top: 30px;
+    right: 320px;
+}
+
+.four #four-c3{
+    top: 30px;
+    right: 40px;
+}
+
+.four #four-c4{
+    top: 400px;
+    right: 600px;
+}
+
+.four #four-c5{
+    top: 400px;
+    right: 320px;
+}
+
+.four #four-c6{
+    top: 400px;
+    right: 40px;
+}
+
+/* ==================================last========================= */
+.last{
+    top: 1005px;
+    position: relative;
+    height: 800px;
+}
+
+.last #kambala{
+    width: 60%;
+    height: 100%;
+}
+
+.last #flogo{
+    position: absolute;
+    top: 70px;
+    right: 290px;
+}
+
+.last h2{
+    position: absolute;
+    top: 300px;
+    right: 50px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.last #udp{
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    top: 300px;
+    right: 70px;
+
+}
+
+.last p{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 440px;
+    right: 280px;
+
+}
+
+.last #og{
+    text-decoration: none;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 660px;
+    right: 407px;
+}
+
+.last #mail{
+    text-decoration: none;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 630px;
+    right: 325px;
+}
+
+.last #follow{
+    position: absolute;
+    top: 690px;
+    right: 400px;
+}
+
+.social-link{
+    display: flex;
+    position: absolute;
+    top: 730px;
+    right: 100px;
+}
+
+.last .social-link a{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    box-shadow: 0 0 20px 10px rgb(0, 0, 0,0.05);
+    margin: 0 20px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.5s;
+}
+
+.social-link a .fa-brands{
+    font-size: 20px;
+    line-height: 50px;
+    position: relative;
+    z-index: 10;
+    transition: color 0.5s;
+}
+.social-link a .fa-solid{
+    font-size: 20px;
+    line-height: 50px;
+    position: relative;
+    z-index: 10;
+    transition: color 0.5s;
+}
+
+.social-link a::after{
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: -55px;
+    left: 0;
+    background: linear-gradient(-45deg, #ed1c94, #ffec17);
+    position: absolute;
+    transition: 0.5s;
+}
+
+.social-link a:hover::after{
+    top: 0;
+    
+}
+
+.social-link a:hover .fa-brands{
+    color: aliceblue;
+}
+
+.social-link a:hover{
+    transform: translateY(-10px);
+}
+
+
+
+
+
+
+/* ====================== MOBILE ============================== */
+
+@media screen and (max-width: 479px){
+   
+    /* ==================== navbar ==================== */
+    .navbar{
+        background-color: rgb(0, 0, 0,0.5);
+        
+    }
+    /* ============================== one ========================= */
+    .belkal{
+        width: 100vw;
+         height: 100vh;
+        position: relative;
+        right: 0;
+        top: -60px;
+        z-index: -1;
+        object-fit: cover;
+    }
+    .one p{
+        position: absolute;
+        top: 190px;
+        left: 20px;
+        color: azure;
+        width: 300px;
+        font-size: 20px;
+        font-weight: 200;
+        font-family: 'Fresca', sans-serif;
+    }
+    .one .n{
+        background-color: black;
+        color: aliceblue;
+        width: 250px;
+        height: 50px;
+        border-radius: 10px;
+        font-size: 30px;
+        background-color: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        top: 130px;
+        left: 12%;
+        font-family: 'DM Serif Display', serif;
+    }
+    #one_logo{
+        border-radius: 50%;
+        height: 60px;
+        width: 60px;
+        background-color: none;
+        position: absolute;
+       bottom: 495px;
+        left: 105%;
+        
+    }
+    #lipi{
+        position: absolute;
+        top: 15px;
+        right: 75%;
+        width: 80px;
+        height: 28px;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-radius: 10px;
+        box-shadow: 0 0px 20px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.333);
+    
+    }
+    
+    /* ============================ two ================================= */
+
+    .two{
+        position: relative;
+        top: 5px;
+        height: 100vh;
+        width: 100vw;
+        padding-bottom: 60px;
+    }
+    .home{
+        height: 90vh;
+        width: 100vw;
+        position: absolute;
+        top: -60px; 
+        left: -1%;
+    }
+    
+    .two h2{
+        position: absolute;
+        top: 5px;
+        width: 50vw;
+        left: 12%;
+        font-size: 30px;
+        font-family: 'DM Serif Display', serif;
+        color: #fff;
+    }
+    
+    .two p{
+        position: absolute;
+        width: 72vw;
+        left: 40px;
+        top: 645px;
+        font-size: large;
+        font-weight: 500;
+        font-family: 'Fresca', sans-serif;
+    }
+    
+    .hvec{
+        position: absolute;
+        top: 605px;
+        right: 10px;
+        height: 70px;
+        width: 60px;
+    }
+    
+    /* ========================= three ============================== */
+
+    .three{
+        position: relative;
+        top: 500px;
+        height: 100vh;
+    }
+    
+    .mou{
+        opacity: 0;
+    }
+    
+    .three h1{
+        position: absolute;
+        top: 1%;
+        left: 17%;
+        color: #000;
+        font-size: 3rem;
+        z-index: 1;
+        /* background-color: rgba(0, 0, 0, 0.7); */
+        
+        
+        
+    }
+
+    /* -----card one------ */
+
+    .three #c_one{
+        position: absolute;
+        top: 100px;
+        left: 10%;
+        background-color: rgba(0, 0, 0, .9);
+
+    }
+
+    /* -----card two------ */
+    .three #c_two{
+        position: absolute;
+        top: 660px;
+        left: 5%;
+        height: 445px;
+        background-color: rgba(0, 0, 0, .9);
+        width: 20rem;
+
+    }
+
+    .three #dosa{
+        width: 310px;
+    }
+
+    
+    .three #c_two .btn{
+        position: absolute;
+        top: 420px;
+        left: 30%;
+        right: auto;
+        
+    }
+
+    /* -----card three------ */
+    .three #c_three{
+        position: absolute;
+        top: 1180px;
+        left: 35px;
+        height: 470px;
+        background-color: rgba(0, 0, 0, .9);
+
+        
+    } 
+
+    /* =============================four=============================== */
+    .four{
+        position: relative;
+        top: 1500px;
+        height: 1200px;
+        margin-top: 50px;
+        
+    }
+    .four h1{
+        font-size: 4rem;
+        position: absolute;
+        top: -20px;
+        left: 30px;
+        
+    }
+    .four p{
+        position: absolute;
+        top: 60px;
+        left: 40px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    #four-img{
+        height: 300px;
+        width: auto;
+        position: absolute;
+        top: 2280px;
+        left: 30px;
+    }
+
+    .four #four-c1{
+        top: 150px;
+        left: 60px;
+    }
+    
+    .four #four-c2{
+        top: 500px;
+        left: 60px;
+    }
+    
+    .four #four-c3{
+        top: 850px;
+        left: 60px;
+    }
+    
+    .four #four-c4{
+        top: 1200px;
+        left: 60px;
+    }
+    
+    .four #four-c5{
+        top: 1550px;
+        left: 60px;
+    }
+    
+    .four #four-c6{
+        top: 1900px;
+        left: 60px;
+    }
+    
+    /* ============ last ==================== */
+    .last{
+        top: 2950px;
+        position: relative;
+        height: 155vh;
+        width: 100vw;
+    }
+    .last #kambala{
+        width: 100vw;
+        height: 60vh;
+    }
+    .last #flogo{
+        position: absolute;
+        top: 970px;
+        left: 15px;
+        height: 150px;
+        width: 280px;
+    }
+    
+    .last h2{
+        position: absolute;
+        top: 500px;
+        left: 10px;
+        color: black;
+        width: 342px;
+        font-size: 22px;
+        
+    }
+    .last #udp{
+        height: 23px;
+        width: 66px;
+        position: absolute;
+        top: 502px;
+        right: 52px;
+    
+    }
+    
+    .last p{
+        position: absolute;
+        top: 600px;
+        left: 30px;
+        width: 200px;
+    
+    }
+    .last #mail{
+        position: absolute;
+        top: 800px;
+        left: 30px;
+    }
+    
+    .last #follow{
+        position: absolute;
+        top: 850px;
+        left: 30px;
+    }
+      
+    .social-link{
+        display: flex;
+        position: absolute;
+        top: 890px;
+        right: 40px;
+    }
+    
+    .last .social-link a{
+        width: 40px;
+        height: 40px;
+        margin: 0 10px;   
+    }
+    
+    .social-link a .fa-brands{
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .social-link a .fa-solid{
+        font-size: 20px;
+        line-height: 40px;
+    }
+    
+    
+}
