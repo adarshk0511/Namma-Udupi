@@ -713,7 +713,7 @@
         position: absolute;
         top: 100px;
         left: 10%;
-        background-color: rgba(0, 0, 0, .9);
+        background-color: rgba(0, 0, 0, .5);
 
     }
 
@@ -723,7 +723,7 @@
         top: 660px;
         left: 5%;
         height: 445px;
-        background-color: rgba(0, 0, 0, .9);
+        background-color: rgba(12, 12, 12, 0.5);
         width: 20rem;
 
     }
@@ -747,7 +747,7 @@
         top: 1180px;
         left: 35px;
         height: 470px;
-        background-color: rgba(0, 0, 0, .9);
+        background-color: rgba(0, 0, 0, .5);
 
         
     } 
